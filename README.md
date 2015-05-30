@@ -1,0 +1,2 @@
+# Mancala
+Solitaire Mancala is a game which you play by yourself. You have 6 houses and 1 store. Each house contains some number of gems. The aim of the game is to fill all the gems into the store. In one chance you may choose one of the houses, remove all the gems in that house and keep adding one to subsequent houses in counter clockwise order. Make sure the last one falls in the store. Try to fill the store.
